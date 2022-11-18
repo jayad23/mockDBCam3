@@ -1,0 +1,24 @@
+{
+  "name": "database_todos",
+  "version": "1.0.0",
+  "description": "Database for todos Class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jayad23/database_todos.git"
+  },
+  "author": "KomikOZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayad23/database_todos/issues"
+  },
+  "homepage": "https://github.com/jayad23/database_todos#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.16"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "todos": [
+    {
+      "id": 11,
+      "task": "Sacar los perros a caminar",
+      "isCompleted": false,
+      "isImportant": false
+    },
+    {
+      "id": 12,
+      "task": "Sacar la basura",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false
+    },
+    {
+      "id": 13,
+      "task": "Lavar la loza",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false
+    },
+    {
+      "id": 14,
+      "task": "Sacudir el sofa",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false
+    },
+    {
+      "id": 15,
+      "task": "Entregar el taller",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false
+    },
+    {
+      "task": "Comprar Zapatos Nuevos",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false,
+      "id": 16
+    },
+    {
+      "task": "Ir al supermercado",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false,
+      "id": 17
+    },
+    {
+      "task": "Limpiar el garaje",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false,
+      "id": 18
+    },
+    {
+      "task": "La clase de Camada 1",
+      "isCompleted": false,
+      "isImportant": false,
+      "isDeleted": false,
+      "id": 19
+    }
+  ]
+}

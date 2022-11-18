@@ -1,0 +1,68 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "label": "Dominik Fike",
+      "value": "https://www.youtube.com/embed/O02Hv5ZukM8",
+      "title": "The Kiss of venus",
+      "imageCover": "https://www.coupdemainmagazine.com/sites/default/files/styles/hero_image/public/article/17577/hero-17577-1142498070.jpg?itok=YPoJxrd-"
+    },
+    {
+      "id": 2,
+      "label": "Rumspringa",
+      "value": "https://www.youtube.com/embed/ieMOIn06yzo",
+      "title": "Shake'm loose tonight",
+      "lengthPlaying": 224500,
+      "imageCover": "http://images.genius.com/b5075795acd7ac51e7ff1f0c9e41f2f5.374x374x1.jpg"
+    },
+    {
+      "id": 3,
+      "label": "John Butler",
+      "value": "https://www.youtube.com/embed/jdYJf_ybyVo",
+      "title": "Ocean",
+      "imageCover": "https://m.media-amazon.com/images/I/61erIkCMKgL._SL1200_.jpg"
+    },
+    {
+      "id": 4,
+      "label": "Bon Iver",
+      "value": "https://www.youtube.com/embed/LuQrLsTUcN0",
+      "title": "Flumes",
+      "imageCover": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/53f46d21688187.56044b4c33b59.jpeg"
+    },
+    {
+      "id": 5,
+      "label": "Cerati ft Gorillaz",
+      "value": "https://www.youtube.com/embed/RscbUNmGuBo",
+      "title": "Tomorrow comes today",
+      "imageCover": "https://i1.sndcdn.com/artworks-x51MjD7TgSJXVKUY-YriVkw-t500x500.jpg"
+    },
+    {
+      "id": 6,
+      "label": "Weezer",
+      "value": "https://www.youtube.com/embed/0C3zgYW_FAM",
+      "title": "Island in the sun",
+      "imageCover": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/43/7f/79/437f79e5-3658-3082-accd-07b27003ca14/16UMGIM53163.rgb.jpg/1200x1200bf-60.jpg"
+    },
+    {
+      "label": "Radiohead",
+      "value": "https://www.youtube.com/embed/n5h0qHwNrHk",
+      "title": "Fake Plastic Trees",
+      "imageCover": "https://m.media-amazon.com/images/I/411oRzkcm0L._SX355_.jpg",
+      "id": 7
+    },
+    {
+      "label": "Juanes",
+      "value": "https://www.youtube.com/embed/ecgsmrJ5kC8",
+      "title": "Y no Regresas",
+      "imageCover": "https://los40mx00.epimg.net/los40/imagenes/2010/09/29/actualidad/1285754100_364690_1285758240_noticia_normal.jpg",
+      "id": 8
+    },
+    {
+      "label": "Juanes",
+      "value": "https://www.youtube.com/embed/1aWKz9rH4uk",
+      "title": "Tu Guardian",
+      "imageCover": "https://los40mx00.epimg.net/los40/imagenes/2010/09/29/actualidad/1285754100_364690_1285758240_noticia_normal.jpg",
+      "id": 9
+    }
+  ]
+}
