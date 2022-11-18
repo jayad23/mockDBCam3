@@ -5,7 +5,9 @@
       "label": "Dominik Fike",
       "value": "https://www.youtube.com/embed/O02Hv5ZukM8",
       "title": "The Kiss of venus",
-      "imageCover": "https://www.coupdemainmagazine.com/sites/default/files/styles/hero_image/public/article/17577/hero-17577-1142498070.jpg?itok=YPoJxrd-"
+      "imageCover": "https://www.coupdemainmagazine.com/sites/default/files/styles/hero_image/public/article/17577/hero-17577-1142498070.jpg?itok=YPoJxrd-",
+      "isLiked": false,
+      "comment": "The Kiss of venus is an amazing collaboration between the legen Paul MacCartney, and the young revelation Dominik Fike. Not very often you see a young start nail a cover song so impressively."
     },
     {
       "id": 2,
@@ -13,56 +15,72 @@
       "value": "https://www.youtube.com/embed/ieMOIn06yzo",
       "title": "Shake'm loose tonight",
       "lengthPlaying": 224500,
-      "imageCover": "http://images.genius.com/b5075795acd7ac51e7ff1f0c9e41f2f5.374x374x1.jpg"
+      "imageCover": "http://images.genius.com/b5075795acd7ac51e7ff1f0c9e41f2f5.374x374x1.jpg",
+      "isLiked": false,
+      "comment": "The band from L.A, Rumspringa comes with this duo sound that changed the concept of indi music and the role of its few memebers which is a feature in this type of bands. The song got to be remade in 25 different occasions."
     },
     {
       "id": 3,
       "label": "John Butler",
       "value": "https://www.youtube.com/embed/jdYJf_ybyVo",
       "title": "Ocean",
-      "imageCover": "https://m.media-amazon.com/images/I/61erIkCMKgL._SL1200_.jpg"
+      "imageCover": "https://m.media-amazon.com/images/I/61erIkCMKgL._SL1200_.jpg",
+      "isLiked": false,
+      "comment": "The Sufer singer or Singer surfer John Buttler delights us with this masterly piece on his 12 strings guitar. The song Ocea revolutioned the concept of multi-functioning guitar playing making Buttler the fatherly exponent."
     },
     {
       "id": 4,
       "label": "Bon Iver",
       "value": "https://www.youtube.com/embed/LuQrLsTUcN0",
       "title": "Flumes",
-      "imageCover": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/53f46d21688187.56044b4c33b59.jpeg"
+      "imageCover": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/53f46d21688187.56044b4c33b59.jpeg",
+      "isLiked": false,
+      "comment": "Bon Iver's impressive rithms are always in tune with energy vibes from the universe. This is the type of music you will not grow tire of, and will constantly lead you to new sensations. His mellow tune and voice match up perfectly."
     },
     {
       "id": 5,
       "label": "Cerati ft Gorillaz",
       "value": "https://www.youtube.com/embed/RscbUNmGuBo",
       "title": "Tomorrow comes today",
-      "imageCover": "https://i1.sndcdn.com/artworks-x51MjD7TgSJXVKUY-YriVkw-t500x500.jpg"
+      "imageCover": "https://i1.sndcdn.com/artworks-x51MjD7TgSJXVKUY-YriVkw-t500x500.jpg",
+      "isLiked": false,
+      "comment": "This is a ver rare collabotation of two artists who differ significantly in style and genre. The collaboration never actually happened. Instead, an Uruguayan Dj surprised with this mix during a party in Montevideo, and it went viral. "
     },
     {
       "id": 6,
       "label": "Weezer",
       "value": "https://www.youtube.com/embed/0C3zgYW_FAM",
       "title": "Island in the sun",
-      "imageCover": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/43/7f/79/437f79e5-3658-3082-accd-07b27003ca14/16UMGIM53163.rgb.jpg/1200x1200bf-60.jpg"
+      "imageCover": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/43/7f/79/437f79e5-3658-3082-accd-07b27003ca14/16UMGIM53163.rgb.jpg/1200x1200bf-60.jpg",
+      "isLiked": false,
+      "comment": "Wizzer is a famouse alternative Rock band from the latter half of the 80's and early 2000's. During that time, they joined forces with other bands to make song about peace and harmony amongst human beings and other endangered species."
     },
     {
       "label": "Radiohead",
       "value": "https://www.youtube.com/embed/n5h0qHwNrHk",
       "title": "Fake Plastic Trees",
       "imageCover": "https://m.media-amazon.com/images/I/411oRzkcm0L._SX355_.jpg",
-      "id": 7
+      "id": 7,
+      "isLiked": false,
+      "comment": "This Radiohead's rare tune replaces its number one hit 'Creep' on this playlist. Despite the boom with Creep, this song gave them number one sales in Great Britain, Belgium, and Australia."
     },
     {
       "label": "Juanes",
       "value": "https://www.youtube.com/embed/ecgsmrJ5kC8",
       "title": "Y no Regresas",
       "imageCover": "https://los40mx00.epimg.net/los40/imagenes/2010/09/29/actualidad/1285754100_364690_1285758240_noticia_normal.jpg",
-      "id": 8
+      "id": 8,
+      "isLiked": false,
+      "comment": "Juanes come's back with yet another album. The PAISA singer becomes one of the most enduring colombian artists in the world after his 20th consecutive album."
     },
     {
       "label": "Juanes",
       "value": "https://www.youtube.com/embed/1aWKz9rH4uk",
       "title": "Tu Guardian",
       "imageCover": "https://los40mx00.epimg.net/los40/imagenes/2010/09/29/actualidad/1285754100_364690_1285758240_noticia_normal.jpg",
-      "id": 9
+      "id": 9,
+      "isLiked": false,
+      "comment": "Mi Sangre which is the name of the Album this song belongs with, represented 6 grammy awards for the  PAISA singer staging him as a word class artist."
     }
   ]
 }
